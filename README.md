@@ -17,7 +17,7 @@ Smooth gameplay, minimalist design, and fully open-source.
 
 ## 🚀 Live Demo
 
-Check it out here: [🔗 Play Tetris Online](https://your-demo-link.com)
+Check it out here: [🔗 Play Tetris Online](https://khasanbayev-7.github.io/Tetris-Game/)
 
 *(Replace with your Netlify / Vercel / GitHub Pages link)*
 
